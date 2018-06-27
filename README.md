@@ -1,2 +1,2 @@
-# 爬取www.27270上的约3500套电影海报
-# 使用多进程爬取会导致短时间内无法访问该网站(status_code:403)
+# crawler_27270.py:a crawler to get about 3500 sets of movie posters on 27270.com
+# crawler_delta.py:a crawler to get about 260 sets of sample pictures on girldelta
